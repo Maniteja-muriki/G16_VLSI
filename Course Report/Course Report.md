@@ -11,9 +11,9 @@
 
 # Course Report
 
-## Name: [Your Name]
+## Name: Muriki Maniteja
 
-## Qualifications: [Your Qualifications]
+## Qualifications:Persuing B.Tech Final Year in Nalla Narasimha Reddy Education Society's Group of Institutions,Hyderabad in Electronics And Communications specialization
 
 Welcome to the course report for the [Course Name]! This README document provides an overview of the course, its mini projects and final project.
 
@@ -23,5 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Projects: [Project Description]     | [Project Link]                         |
-| Final Project: [Project Description]     | [Project Link]                         |
+| Mini Project-1: [HDL Bits]     | [Project Link]                         |
+| Mini Project-2: [ Design of an Asynchronous FIFO ]     | []                                       |
+| Final Project: [Design of a 3-stage RISC-V Processor]     | [Project Link]                         |
