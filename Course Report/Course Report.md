@@ -23,6 +23,6 @@ Below is a table summarizing the mini projects and final project completed durin
 
 | Description                               | Link                                    |
 |-------------------------------------------|-----------------------------------------|
-| Mini Project-1: [HDL Bits]     | [Project Link]                         |
-| Mini Project-2: [ Design of an Asynchronous FIFO ]     | []                                       |
-| Final Project: [Design of a 3-stage RISC-V Processor]     | [Project Link]                         |
+| Mini Project-1: [HDL Bits]     | [https://github.com/Maniteja-muriki/G16_VLSI/tree/main/Mini%20Projects/Mani/minor_1]                         |
+| Mini Project-2: [ Design of an Asynchronous FIFO ]     | [https://github.com/Maniteja-muriki/G16_VLSI/tree/main/Mini%20Projects/Mani/minor_2/Asynchronous%20FIFO]                                       |
+| Final Project: [Design of a 3-stage RISC-V Processor]     | [https://github.com/Maniteja-muriki/G16_VLSI/tree/main/Final%20Capstone%20Project/Mani]                         |
